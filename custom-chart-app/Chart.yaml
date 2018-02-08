@@ -1,0 +1,4 @@
+apiVersion: v1
+description: HelloNode App 
+name: custom-chart-app 
+version: 0.2.4
